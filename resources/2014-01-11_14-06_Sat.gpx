@@ -1,0 +1,115 @@
+<?xml version='1.0' encoding='UTF-8' standalone='yes' ?>
+<gpx version="1.1" creator="OsmAnd+" xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <trk>
+    <trkseg>
+      <trkpt lat="41.899386" lon="12.4767142">
+        <ele>93.19999694824219</ele>
+        <hdop>9.0</hdop>
+        <time>2014-01-11T13:06:52Z</time>
+      </trkpt>
+      <trkpt lat="41.8993966" lon="12.4767086">
+        <ele>94.19999694824219</ele>
+        <hdop>10.0</hdop>
+        <time>2014-01-11T13:07:08Z</time>
+        <extensions>
+          <speed>0.75</speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="41.8994998" lon="12.4768355">
+        <ele>91.30000305175781</ele>
+        <hdop>16.0</hdop>
+        <time>2014-01-11T13:07:24Z</time>
+        <extensions>
+          <speed>1.0</speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="41.8995148" lon="12.4768781">
+        <ele>92.4000015258789</ele>
+        <hdop>23.0</hdop>
+        <time>2014-01-11T13:07:40Z</time>
+        <extensions>
+          <speed>0.5</speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="41.89954" lon="12.4770139">
+        <ele>93.19999694824219</ele>
+        <hdop>48.0</hdop>
+        <time>2014-01-11T13:08:23Z</time>
+        <extensions>
+          <speed>1.0</speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="41.8999517" lon="12.4765709">
+        <ele>80.19999694824219</ele>
+        <hdop>10.0</hdop>
+        <time>2014-01-11T13:08:54Z</time>
+        <extensions>
+          <speed>1.0</speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="41.9001273" lon="12.4764933">
+        <ele>84.9000015258789</ele>
+        <hdop>11.0</hdop>
+        <time>2014-01-11T13:09:09Z</time>
+        <extensions>
+          <speed>0.75</speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="41.9001758" lon="12.4764858">
+        <ele>82.5</ele>
+        <hdop>10.0</hdop>
+        <time>2014-01-11T13:09:25Z</time>
+      </trkpt>
+      <trkpt lat="41.9003966" lon="12.47648">
+        <ele>81.4000015258789</ele>
+        <hdop>47.0</hdop>
+        <time>2014-01-11T13:14:03Z</time>
+        <extensions>
+          <speed>1.75</speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="41.9009328" lon="12.476502">
+        <ele>67.69999694824219</ele>
+        <hdop>38.0</hdop>
+        <time>2014-01-11T13:20:53Z</time>
+        <extensions>
+          <speed>0.25</speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="41.9009882" lon="12.4766185">
+        <ele>69.5</ele>
+        <hdop>11.0</hdop>
+        <time>2014-01-11T13:21:08Z</time>
+      </trkpt>
+      <trkpt lat="41.9010045" lon="12.4766146">
+        <ele>65.0999984741211</ele>
+        <hdop>10.0</hdop>
+        <time>2014-01-11T13:21:23Z</time>
+      </trkpt>
+      <trkpt lat="41.9010338" lon="12.4766119">
+        <ele>64.0</ele>
+        <hdop>12.0</hdop>
+        <time>2014-01-11T13:21:39Z</time>
+        <extensions>
+          <speed>0.5</speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="41.901131" lon="12.4764154">
+        <ele>65.4000015258789</ele>
+        <hdop>14.0</hdop>
+        <time>2014-01-11T13:21:55Z</time>
+        <extensions>
+          <speed>1.5</speed>
+        </extensions>
+      </trkpt>
+      <trkpt lat="41.9013682" lon="12.4761992">
+        <ele>66.5999984741211</ele>
+        <hdop>10.0</hdop>
+        <time>2014-01-11T13:22:11Z</time>
+        <extensions>
+          <speed>1.5</speed>
+        </extensions>
+      </trkpt>
+    </trkseg>
+  </trk>
+</gpx>

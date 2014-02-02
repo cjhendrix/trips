@@ -1,0 +1,649 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>La Fierney-La Givrine Route</name>
+	<open>1</open>
+	<Snippet maxLines="2">Created 02/19/12 18:17:19</Snippet>
+	<StyleMap id="m_ylw-pushpin">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#s_ylw-pushpin</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#s_ylw-pushpin_hl</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="s_ylw-pushpin">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="s_ylw-pushpin_hl">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+	</Style>
+	<Style id="multiTrack_n">
+		<IconStyle>
+			<Icon>
+				<href>http://earth.google.com/images/kml-icons/track-directional/track-0.png</href>
+			</Icon>
+		</IconStyle>
+		<LineStyle>
+			<color>993e6eff</color>
+			<width>6</width>
+		</LineStyle>
+	</Style>
+	<StyleMap id="multiTrack">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#multiTrack_n</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#multiTrack_h</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="multiTrack_h">
+		<IconStyle>
+			<scale>1.2</scale>
+			<Icon>
+				<href>http://earth.google.com/images/kml-icons/track-directional/track-0.png</href>
+			</Icon>
+		</IconStyle>
+		<LineStyle>
+			<color>993e6eff</color>
+			<width>8</width>
+		</LineStyle>
+	</Style>
+	<Placemark>
+		<name>Shelter?</name>s
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<Point>
+			<gx:drawOrder>1</gx:drawOrder>
+			<coordinates>6.029453408603112,46.37100669695346,0</coordinates>
+		</Point>
+	</Placemark>
+	<Placemark>
+		<name>Camp?</name>
+		<LookAt>
+			<gx:TimeSpan>
+				<begin>2010-03-13T13:32:37Z</begin>
+				<end>2012-02-19T01:32:13Z</end>
+			</gx:TimeSpan>
+			<longitude>6.049646644435658</longitude>
+			<latitude>46.37910635710146</latitude>
+			<altitude>0</altitude>
+			<heading>-0.0007817067553894287</heading>
+			<tilt>33.36829179469278</tilt>
+			<range>1811.606156741338</range>
+			<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+		</LookAt>
+		<styleUrl>#m_ylw-pushpin</styleUrl>
+		<Point>
+			<gx:drawOrder>1</gx:drawOrder>
+			<coordinates>6.050018693515902,46.3776921282369,0</coordinates>
+		</Point>
+	</Placemark>
+		<name>Tracks</name>
+		<open>1</open>
+		<Placemark>
+			<name>la fierney - la</name>
+			<styleUrl>#multiTrack</styleUrl>
+			<gx:Track>
+				<gx:coord>5.982699 46.291829 1300</gx:coord>
+				<gx:coord>5.98271 46.291851 1300</gx:coord>
+				<gx:coord>5.98268 46.291851 1300</gx:coord>
+				<gx:coord>5.98209 46.291851 1308</gx:coord>
+				<gx:coord>5.982000000000001 46.29184 1309</gx:coord>
+				<gx:coord>5.98151 46.29174 1316</gx:coord>
+				<gx:coord>5.981010000000001 46.291611 1324</gx:coord>
+				<gx:coord>5.980490000000001 46.29147 1332</gx:coord>
+				<gx:coord>5.98014 46.29119900000001 1340</gx:coord>
+				<gx:coord>5.97979 46.29092 1349</gx:coord>
+				<gx:coord>5.979340000000001 46.29073 1356</gx:coord>
+				<gx:coord>5.97904 46.290909 1362</gx:coord>
+				<gx:coord>5.978589999999999 46.291248 1372</gx:coord>
+				<gx:coord>5.978259999999999 46.291359 1378</gx:coord>
+				<gx:coord>5.97797 46.291351 1381</gx:coord>
+				<gx:coord>5.97735 46.291302 1388</gx:coord>
+				<gx:coord>5.97708 46.29134 1391</gx:coord>
+				<gx:coord>5.97676 46.29142 1395</gx:coord>
+				<gx:coord>5.976459999999999 46.291451 1397</gx:coord>
+				<gx:coord>5.97618 46.291431 1399</gx:coord>
+				<gx:coord>5.97593 46.29137 1401</gx:coord>
+				<gx:coord>5.97574 46.29126 1403</gx:coord>
+				<gx:coord>5.975480000000001 46.291088 1406</gx:coord>
+				<gx:coord>5.975299999999999 46.291012 1407</gx:coord>
+				<gx:coord>5.97505 46.290958 1408</gx:coord>
+				<gx:coord>5.97468 46.29084 1410</gx:coord>
+				<gx:coord>5.97451 46.290771 1411</gx:coord>
+				<gx:coord>5.9742 46.290749 1413</gx:coord>
+				<gx:coord>5.97403 46.29073 1413</gx:coord>
+				<gx:coord>5.97388 46.290722 1414</gx:coord>
+				<gx:coord>5.97371 46.290771 1415</gx:coord>
+				<gx:coord>5.97311 46.29108 1419</gx:coord>
+				<gx:coord>5.97295 46.29132800000001 1421</gx:coord>
+				<gx:coord>5.97278 46.291382 1423</gx:coord>
+				<gx:coord>5.97237 46.29147 1428</gx:coord>
+				<gx:coord>5.97198 46.29163000000001 1433</gx:coord>
+				<gx:coord>5.971770000000001 46.291698 1436</gx:coord>
+				<gx:coord>5.97151 46.291882 1441</gx:coord>
+				<gx:coord>5.97139 46.291908 1441</gx:coord>
+				<gx:coord>5.97121 46.291908 1441</gx:coord>
+				<gx:coord>5.97105 46.291939 1441</gx:coord>
+				<gx:coord>5.97075 46.29221 1442</gx:coord>
+				<gx:coord>5.970689999999999 46.292801 1444</gx:coord>
+				<gx:coord>5.970589999999999 46.29295 1445</gx:coord>
+				<gx:coord>5.97046 46.293018 1446</gx:coord>
+				<gx:coord>5.970290000000001 46.29306 1447</gx:coord>
+				<gx:coord>5.969769999999999 46.29306 1450</gx:coord>
+				<gx:coord>5.96964 46.293079 1451</gx:coord>
+				<gx:coord>5.96956 46.293159 1451</gx:coord>
+				<gx:coord>5.96959 46.29325899999999 1452</gx:coord>
+				<gx:coord>5.96974 46.293411 1454</gx:coord>
+				<gx:coord>5.969950000000001 46.293541 1456</gx:coord>
+				<gx:coord>5.97003 46.293671 1457</gx:coord>
+				<gx:coord>5.970040000000001 46.293819 1459</gx:coord>
+				<gx:coord>5.97015 46.293961 1461</gx:coord>
+				<gx:coord>5.97014 46.29406 1462</gx:coord>
+				<gx:coord>5.96999 46.294201 1465</gx:coord>
+				<gx:coord>5.969530000000001 46.294312 1469</gx:coord>
+				<gx:coord>5.9689 46.29428899999999 1475</gx:coord>
+				<gx:coord>5.96873 46.29429999999999 1475</gx:coord>
+				<gx:coord>5.968470000000001 46.29438 1477</gx:coord>
+				<gx:coord>5.96827 46.294491 1479</gx:coord>
+				<gx:coord>5.967890000000001 46.294609 1481</gx:coord>
+				<gx:coord>5.96811 46.295139 1486</gx:coord>
+				<gx:coord>5.96819 46.29517 1486</gx:coord>
+				<gx:coord>5.968299999999999 46.29528 1488</gx:coord>
+				<gx:coord>5.968230000000001 46.29552799999999 1491</gx:coord>
+				<gx:coord>5.968380000000001 46.29586 1495</gx:coord>
+				<gx:coord>5.96868 46.296169 1500</gx:coord>
+				<gx:coord>5.96877 46.29643999999999 1500</gx:coord>
+				<gx:coord>5.96941 46.297241 1504</gx:coord>
+				<gx:coord>5.96999 46.297771 1504</gx:coord>
+				<gx:coord>5.97032 46.29824799999999 1504</gx:coord>
+				<gx:coord>5.970839999999999 46.29871 1507</gx:coord>
+				<gx:coord>5.971670000000001 46.299461 1513</gx:coord>
+				<gx:coord>5.972829999999999 46.300621 1515</gx:coord>
+				<gx:coord>5.972979999999999 46.30088000000001 1516</gx:coord>
+				<gx:coord>5.973409999999999 46.30106 1518</gx:coord>
+				<gx:coord>5.97413 46.301239 1521</gx:coord>
+				<gx:coord>5.97444 46.301361 1522</gx:coord>
+				<gx:coord>5.9746 46.301571 1524</gx:coord>
+				<gx:coord>5.97463 46.30172 1525</gx:coord>
+				<gx:coord>5.97461 46.30183 1526</gx:coord>
+				<gx:coord>5.97453 46.30197900000001 1527</gx:coord>
+				<gx:coord>5.97454 46.302071 1528</gx:coord>
+				<gx:coord>5.9745 46.302422 1531</gx:coord>
+				<gx:coord>5.97456 46.302528 1532</gx:coord>
+				<gx:coord>5.97465 46.302559 1534</gx:coord>
+				<gx:coord>5.97487 46.30278 1538</gx:coord>
+				<gx:coord>5.97517 46.30287899999999 1542</gx:coord>
+				<gx:coord>5.97544 46.30315 1548</gx:coord>
+				<gx:coord>5.976539999999999 46.30358900000001 1567</gx:coord>
+				<gx:coord>5.97713 46.303741 1577</gx:coord>
+				<gx:coord>5.977540000000001 46.30390200000001 1581</gx:coord>
+				<gx:coord>5.97807 46.30384100000001 1585</gx:coord>
+				<gx:coord>5.9784 46.303761 1588</gx:coord>
+				<gx:coord>5.978929999999999 46.30390200000001 1594</gx:coord>
+				<gx:coord>5.979190000000001 46.3041 1596</gx:coord>
+				<gx:coord>5.97982 46.304279 1599</gx:coord>
+				<gx:coord>5.98024 46.304562 1603</gx:coord>
+				<gx:coord>5.9806 46.304901 1598</gx:coord>
+				<gx:coord>5.98088 46.305382 1592</gx:coord>
+				<gx:coord>5.98094 46.30558000000001 1591</gx:coord>
+				<gx:coord>5.98152 46.306339 1588</gx:coord>
+				<gx:coord>5.98175 46.30687 1587</gx:coord>
+				<gx:coord>5.98205 46.307289 1587</gx:coord>
+				<gx:coord>5.98227 46.30751 1587</gx:coord>
+				<gx:coord>5.98235 46.307671 1588</gx:coord>
+				<gx:coord>5.98229 46.307869 1589</gx:coord>
+				<gx:coord>5.98237 46.30809 1590</gx:coord>
+				<gx:coord>5.98253 46.30828900000001 1591</gx:coord>
+				<gx:coord>5.98286 46.308689 1596</gx:coord>
+				<gx:coord>5.98298 46.30875 1598</gx:coord>
+				<gx:coord>5.98317 46.30899 1601</gx:coord>
+				<gx:coord>5.98326 46.309231 1605</gx:coord>
+				<gx:coord>5.98326 46.309391 1605</gx:coord>
+				<gx:coord>5.983369999999999 46.309601 1606</gx:coord>
+				<gx:coord>5.98338 46.31002000000001 1608</gx:coord>
+				<gx:coord>5.98349 46.310421 1610</gx:coord>
+				<gx:coord>5.9835 46.310551 1608</gx:coord>
+				<gx:coord>5.98359 46.31068 1606</gx:coord>
+				<gx:coord>5.98357 46.310841 1604</gx:coord>
+				<gx:coord>5.983970000000001 46.311279 1599</gx:coord>
+				<gx:coord>5.9842 46.31129099999999 1598</gx:coord>
+				<gx:coord>5.9842 46.31129099999999 1598</gx:coord>
+				<gx:coord>5.98438 46.311298 1596</gx:coord>
+				<gx:coord>5.98449 46.31134 1595</gx:coord>
+				<gx:coord>5.9849 46.311501 1591</gx:coord>
+				<gx:coord>5.98515 46.31164900000001 1588</gx:coord>
+				<gx:coord>5.985599999999999 46.31255000000001 1577</gx:coord>
+				<gx:coord>5.98582 46.31277800000001 1576</gx:coord>
+				<gx:coord>5.985860000000001 46.312889 1576</gx:coord>
+				<gx:coord>5.985849999999999 46.313011 1575</gx:coord>
+				<gx:coord>5.98637 46.313839 1574</gx:coord>
+				<gx:coord>5.98637 46.3139 1574</gx:coord>
+				<gx:coord>5.98663 46.31424 1580</gx:coord>
+				<gx:coord>5.98685 46.3144 1584</gx:coord>
+				<gx:coord>5.98689 46.314468 1585</gx:coord>
+				<gx:coord>5.98695 46.31448 1586</gx:coord>
+				<gx:coord>5.98722 46.31465100000001 1590</gx:coord>
+				<gx:coord>5.98732 46.314678 1592</gx:coord>
+				<gx:coord>5.987839999999999 46.315071 1609</gx:coord>
+				<gx:coord>5.988069999999999 46.315498 1625</gx:coord>
+				<gx:coord>5.98815 46.315559 1627</gx:coord>
+				<gx:coord>5.988580000000001 46.316349 1651</gx:coord>
+				<gx:coord>5.98904 46.316898 1654</gx:coord>
+				<gx:coord>5.989240000000001 46.317032 1655</gx:coord>
+				<gx:coord>5.98981 46.31761199999999 1659</gx:coord>
+				<gx:coord>5.9901 46.31805 1653</gx:coord>
+				<gx:coord>5.99012 46.31813 1652</gx:coord>
+				<gx:coord>5.99026 46.31826 1651</gx:coord>
+				<gx:coord>5.9905 46.31838999999999 1649</gx:coord>
+				<gx:coord>5.9906 46.31847 1647</gx:coord>
+				<gx:coord>5.99067 46.31850799999999 1646</gx:coord>
+				<gx:coord>5.99081 46.3186 1644</gx:coord>
+				<gx:coord>5.99085 46.318729 1641</gx:coord>
+				<gx:coord>5.99136 46.319149 1633</gx:coord>
+				<gx:coord>5.99145 46.319172 1632</gx:coord>
+				<gx:coord>5.99166 46.319321 1631</gx:coord>
+				<gx:coord>5.99181 46.31943099999999 1630</gx:coord>
+				<gx:coord>5.99205 46.319641 1629</gx:coord>
+				<gx:coord>5.99234 46.31992 1628</gx:coord>
+				<gx:coord>5.99253 46.320122 1631</gx:coord>
+				<gx:coord>5.99274 46.320358 1634</gx:coord>
+				<gx:coord>5.99298 46.32053000000001 1637</gx:coord>
+				<gx:coord>5.99308 46.320572 1638</gx:coord>
+				<gx:coord>5.99315 46.32061000000001 1639</gx:coord>
+				<gx:coord>5.9934 46.32069 1642</gx:coord>
+				<gx:coord>5.99346 46.320751 1643</gx:coord>
+				<gx:coord>5.99366 46.32104099999999 1650</gx:coord>
+				<gx:coord>5.99388 46.32127 1656</gx:coord>
+				<gx:coord>5.9941 46.321411 1660</gx:coord>
+				<gx:coord>5.99417 46.321499 1663</gx:coord>
+				<gx:coord>5.994509999999999 46.32172 1666</gx:coord>
+				<gx:coord>5.994680000000001 46.321869 1667</gx:coord>
+				<gx:coord>5.994989999999999 46.32209 1670</gx:coord>
+				<gx:coord>5.9952 46.322239 1673</gx:coord>
+				<gx:coord>5.99538 46.322319 1670</gx:coord>
+				<gx:coord>5.99536 46.32249099999999 1667</gx:coord>
+				<gx:coord>5.995659999999999 46.322681 1663</gx:coord>
+				<gx:coord>5.99586 46.322762 1660</gx:coord>
+				<gx:coord>5.996239999999999 46.32296 1655</gx:coord>
+				<gx:coord>5.99662 46.32317000000001 1645</gx:coord>
+				<gx:coord>5.996980000000001 46.32349 1633</gx:coord>
+				<gx:coord>5.99701 46.32361999999999 1629</gx:coord>
+				<gx:coord>5.997139999999999 46.32378000000001 1624</gx:coord>
+				<gx:coord>5.99752 46.323818 1620</gx:coord>
+				<gx:coord>5.99768 46.323872 1619</gx:coord>
+				<gx:coord>5.99779 46.323952 1618</gx:coord>
+				<gx:coord>5.998160000000001 46.32420000000001 1614</gx:coord>
+				<gx:coord>5.998160000000001 46.32420000000001 1614</gx:coord>
+				<gx:coord>5.998310000000001 46.32431 1613</gx:coord>
+				<gx:coord>5.998859999999999 46.324421 1610</gx:coord>
+				<gx:coord>5.99952 46.32449 1608</gx:coord>
+				<gx:coord>5.999970000000001 46.324612 1604</gx:coord>
+				<gx:coord>6.00042 46.324638 1600</gx:coord>
+				<gx:coord>6.00082 46.32471099999999 1597</gx:coord>
+				<gx:coord>6.00093 46.32486 1595</gx:coord>
+				<gx:coord>6.00106 46.32497 1594</gx:coord>
+				<gx:coord>6.0012 46.325081 1593</gx:coord>
+				<gx:coord>6.00123 46.32526 1591</gx:coord>
+				<gx:coord>6.001270000000001 46.325539 1589</gx:coord>
+				<gx:coord>6.00133 46.325649 1588</gx:coord>
+				<gx:coord>6.001429999999999 46.32579 1587</gx:coord>
+				<gx:coord>6.00154 46.325932 1586</gx:coord>
+				<gx:coord>6.00153 46.32634 1584</gx:coord>
+				<gx:coord>6.00135 46.32651100000001 1583</gx:coord>
+				<gx:coord>6.00133 46.326641 1583</gx:coord>
+				<gx:coord>6.00133 46.32686999999999 1582</gx:coord>
+				<gx:coord>6.001360000000001 46.326939 1581</gx:coord>
+				<gx:coord>6.00137 46.32708 1581</gx:coord>
+				<gx:coord>6.00093 46.327499 1579</gx:coord>
+				<gx:coord>6.000690000000001 46.32788099999999 1577</gx:coord>
+				<gx:coord>6.00066 46.328209 1576</gx:coord>
+				<gx:coord>6.00059 46.32843 1576</gx:coord>
+				<gx:coord>6.00048 46.32857900000001 1574</gx:coord>
+				<gx:coord>6.000450000000001 46.32859000000001 1573</gx:coord>
+				<gx:coord>6.000369999999999 46.32877 1571</gx:coord>
+				<gx:coord>6.000300000000001 46.328789 1571</gx:coord>
+				<gx:coord>6.00016 46.32893 1569</gx:coord>
+				<gx:coord>6.0001 46.329048 1567</gx:coord>
+				<gx:coord>6.000120000000001 46.32922 1565</gx:coord>
+				<gx:coord>6.00006 46.329361 1564</gx:coord>
+				<gx:coord>5.99993 46.32943 1562</gx:coord>
+				<gx:coord>5.99972 46.329479 1560</gx:coord>
+				<gx:coord>5.99963 46.32957100000001 1558</gx:coord>
+				<gx:coord>5.999609999999999 46.329811 1555</gx:coord>
+				<gx:coord>5.9994 46.330238 1549</gx:coord>
+				<gx:coord>5.99939 46.330379 1548</gx:coord>
+				<gx:coord>5.99963 46.33086 1544</gx:coord>
+				<gx:coord>5.99993 46.33124899999999 1542</gx:coord>
+				<gx:coord>5.999970000000001 46.33165 1544</gx:coord>
+				<gx:coord>5.99985 46.33194 1546</gx:coord>
+				<gx:coord>5.9998 46.332359 1549</gx:coord>
+				<gx:coord>5.999870000000001 46.332409 1549</gx:coord>
+				<gx:coord>5.99976 46.33258099999999 1551</gx:coord>
+				<gx:coord>5.999939999999999 46.33284 1554</gx:coord>
+				<gx:coord>6.0005 46.333752 1564</gx:coord>
+				<gx:coord>6.00057 46.334 1565</gx:coord>
+				<gx:coord>6.00062 46.33408 1566</gx:coord>
+				<gx:coord>6.00074 46.33445 1568</gx:coord>
+				<gx:coord>6.00108 46.33519 1574</gx:coord>
+				<gx:coord>6.00113 46.335361 1574</gx:coord>
+				<gx:coord>6.00123 46.33548 1575</gx:coord>
+				<gx:coord>6.00122 46.33556 1575</gx:coord>
+				<gx:coord>6.001270000000001 46.335781 1577</gx:coord>
+				<gx:coord>6.00139 46.33596 1578</gx:coord>
+				<gx:coord>6.00158 46.33609 1579</gx:coord>
+				<gx:coord>6.00163 46.336189 1579</gx:coord>
+				<gx:coord>6.00183 46.336491 1582</gx:coord>
+				<gx:coord>6.001909999999999 46.33691 1585</gx:coord>
+				<gx:coord>6.00198 46.337292 1589</gx:coord>
+				<gx:coord>6.00215 46.337601 1587</gx:coord>
+				<gx:coord>6.00221 46.337818 1586</gx:coord>
+				<gx:coord>6.00229 46.33823 1585</gx:coord>
+				<gx:coord>6.00225 46.33831 1585</gx:coord>
+				<gx:coord>6.0023 46.33844 1586</gx:coord>
+				<gx:coord>6.00244 46.338501 1586</gx:coord>
+				<gx:coord>6.00271 46.338982 1589</gx:coord>
+				<gx:coord>6.00281 46.33916899999999 1590</gx:coord>
+				<gx:coord>6.00286 46.339352 1587</gx:coord>
+				<gx:coord>6.00281 46.33970999999999 1581</gx:coord>
+				<gx:coord>6.002840000000001 46.339741 1581</gx:coord>
+				<gx:coord>6.00278 46.339909 1578</gx:coord>
+				<gx:coord>6.00287 46.34016 1575</gx:coord>
+				<gx:coord>6.00298 46.34045 1568</gx:coord>
+				<gx:coord>6.00303 46.34071 1563</gx:coord>
+				<gx:coord>6.00298 46.340778 1561</gx:coord>
+				<gx:coord>6.002989999999999 46.34081999999999 1560</gx:coord>
+				<gx:coord>6.00286 46.34091899999999 1557</gx:coord>
+				<gx:coord>6.00286 46.340988 1556</gx:coord>
+				<gx:coord>6.00296 46.341049 1554</gx:coord>
+				<gx:coord>6.002909999999999 46.34111 1553</gx:coord>
+				<gx:coord>6.00295 46.34132 1552</gx:coord>
+				<gx:coord>6.00349 46.34161 1551</gx:coord>
+				<gx:coord>6.00356 46.34174 1551</gx:coord>
+				<gx:coord>6.00372 46.34181999999999 1551</gx:coord>
+				<gx:coord>6.003989999999999 46.342209 1559</gx:coord>
+				<gx:coord>6.00403 46.34242999999999 1563</gx:coord>
+				<gx:coord>6.0041 46.34256 1566</gx:coord>
+				<gx:coord>6.00402 46.34288 1573</gx:coord>
+				<gx:coord>6.00402 46.342918 1573</gx:coord>
+				<gx:coord>6.00418 46.343121 1576</gx:coord>
+				<gx:coord>6.004160000000001 46.343319 1579</gx:coord>
+				<gx:coord>6.004080000000001 46.34344899999999 1581</gx:coord>
+				<gx:coord>6.004229999999999 46.34354 1583</gx:coord>
+				<gx:coord>6.004479999999999 46.34360900000001 1586</gx:coord>
+				<gx:coord>6.00461 46.34383 1590</gx:coord>
+				<gx:coord>6.0047 46.343861 1589</gx:coord>
+				<gx:coord>6.00495 46.34415799999999 1589</gx:coord>
+				<gx:coord>6.005049999999999 46.34437199999999 1589</gx:coord>
+				<gx:coord>6.004990000000001 46.344528 1589</gx:coord>
+				<gx:coord>6.00488 46.344719 1589</gx:coord>
+				<gx:coord>6.00494 46.34494 1586</gx:coord>
+				<gx:coord>6.005 46.344978 1586</gx:coord>
+				<gx:coord>6.005 46.34503200000001 1585</gx:coord>
+				<gx:coord>6.00493 46.34524900000001 1583</gx:coord>
+				<gx:coord>6.00486 46.345341 1582</gx:coord>
+				<gx:coord>6.00492 46.34544 1580</gx:coord>
+				<gx:coord>6.004980000000001 46.34571799999999 1578</gx:coord>
+				<gx:coord>6.00517 46.346279 1576</gx:coord>
+				<gx:coord>6.00536 46.34637800000001 1575</gx:coord>
+				<gx:coord>6.00557 46.346649 1575</gx:coord>
+				<gx:coord>6.00562 46.346668 1574</gx:coord>
+				<gx:coord>6.005650000000001 46.346741 1574</gx:coord>
+				<gx:coord>6.00563 46.346779 1574</gx:coord>
+				<gx:coord>6.005709999999999 46.346909 1574</gx:coord>
+				<gx:coord>6.00577 46.346981 1574</gx:coord>
+				<gx:coord>6.005799999999999 46.34705 1574</gx:coord>
+				<gx:coord>6.005719999999999 46.34716 1573</gx:coord>
+				<gx:coord>6.00588 46.34729000000001 1573</gx:coord>
+				<gx:coord>6.00586 46.34732800000001 1573</gx:coord>
+				<gx:coord>6.00595 46.34742 1573</gx:coord>
+				<gx:coord>6.005970000000001 46.3475 1573</gx:coord>
+				<gx:coord>6.00595 46.34758 1573</gx:coord>
+				<gx:coord>6.005959999999999 46.347752 1570</gx:coord>
+				<gx:coord>6.00611 46.347919 1568</gx:coord>
+				<gx:coord>6.00635 46.347988 1565</gx:coord>
+				<gx:coord>6.00625 46.34811 1563</gx:coord>
+				<gx:coord>6.00618 46.348179 1562</gx:coord>
+				<gx:coord>6.0055 46.348351 1555</gx:coord>
+				<gx:coord>6.00549 46.348492 1554</gx:coord>
+				<gx:coord>6.005 46.348541 1546</gx:coord>
+				<gx:coord>6.00451 46.348541 1540</gx:coord>
+				<gx:coord>6.00435 46.34861 1537</gx:coord>
+				<gx:coord>6.004229999999999 46.34875099999999 1534</gx:coord>
+				<gx:coord>6.00386 46.34891100000001 1528</gx:coord>
+				<gx:coord>6.00385 46.349152 1524</gx:coord>
+				<gx:coord>6.004 46.349491 1518</gx:coord>
+				<gx:coord>6.004170000000001 46.349682 1515</gx:coord>
+				<gx:coord>6.004260000000001 46.349991 1508</gx:coord>
+				<gx:coord>6.00451 46.35010900000001 1504</gx:coord>
+				<gx:coord>6.00458 46.350239 1501</gx:coord>
+				<gx:coord>6.00458 46.350288 1500</gx:coord>
+				<gx:coord>6.004719999999999 46.35042200000001 1497</gx:coord>
+				<gx:coord>6.00469 46.35047100000001 1496</gx:coord>
+				<gx:coord>6.00468 46.350571 1494</gx:coord>
+				<gx:coord>6.00471 46.350681 1492</gx:coord>
+				<gx:coord>6.00468 46.35075 1491</gx:coord>
+				<gx:coord>6.00468 46.350819 1490</gx:coord>
+				<gx:coord>6.004899999999999 46.351051 1485</gx:coord>
+				<gx:coord>6.004899999999999 46.351101 1485</gx:coord>
+				<gx:coord>6.004990000000001 46.351181 1483</gx:coord>
+				<gx:coord>6.00501 46.351299 1481</gx:coord>
+				<gx:coord>6.00492 46.351601 1477</gx:coord>
+				<gx:coord>6.004890000000001 46.3517 1476</gx:coord>
+				<gx:coord>6.00494 46.351768 1475</gx:coord>
+				<gx:coord>6.00497 46.35190999999999 1474</gx:coord>
+				<gx:coord>6.00491 46.352058 1473</gx:coord>
+				<gx:coord>6.00485 46.35215000000001 1472</gx:coord>
+				<gx:coord>6.00512 46.352459 1469</gx:coord>
+				<gx:coord>6.00501 46.35331 1462</gx:coord>
+				<gx:coord>6.00504 46.353409 1461</gx:coord>
+				<gx:coord>6.005 46.35356099999999 1459</gx:coord>
+				<gx:coord>6.00476 46.353931 1455</gx:coord>
+				<gx:coord>6.00475 46.354099 1454</gx:coord>
+				<gx:coord>6.004899999999999 46.35421000000001 1453</gx:coord>
+				<gx:coord>6.005 46.354359 1452</gx:coord>
+				<gx:coord>6.004959999999999 46.354599 1452</gx:coord>
+				<gx:coord>6.00509 46.354851 1451</gx:coord>
+				<gx:coord>6.0051 46.355091 1451</gx:coord>
+				<gx:coord>6.00525 46.35511 1451</gx:coord>
+				<gx:coord>6.00563 46.355011 1449</gx:coord>
+				<gx:coord>6.005799999999999 46.35519 1449</gx:coord>
+				<gx:coord>6.00582 46.35537 1448</gx:coord>
+				<gx:coord>6.00576 46.355499 1447</gx:coord>
+				<gx:coord>6.00567 46.35556 1447</gx:coord>
+				<gx:coord>6.005400000000001 46.355801 1446</gx:coord>
+				<gx:coord>6.00535 46.355919 1445</gx:coord>
+				<gx:coord>6.00544 46.356079 1445</gx:coord>
+				<gx:coord>6.00546 46.356159 1445</gx:coord>
+				<gx:coord>6.005809999999999 46.35646800000001 1445</gx:coord>
+				<gx:coord>6.00619 46.356689 1446</gx:coord>
+				<gx:coord>6.00665 46.35679999999999 1447</gx:coord>
+				<gx:coord>6.00703 46.35688 1446</gx:coord>
+				<gx:coord>6.007310000000001 46.35694900000001 1445</gx:coord>
+				<gx:coord>6.00749 46.357121 1445</gx:coord>
+				<gx:coord>6.00757 46.35728099999999 1444</gx:coord>
+				<gx:coord>6.00767 46.357471 1444</gx:coord>
+				<gx:coord>6.008030000000001 46.357681 1440</gx:coord>
+				<gx:coord>6.00811 46.35783 1438</gx:coord>
+				<gx:coord>6.00806 46.35799000000001 1436</gx:coord>
+				<gx:coord>6.007550000000001 46.358269 1431</gx:coord>
+				<gx:coord>6.007210000000001 46.358379 1429</gx:coord>
+				<gx:coord>6.00709 46.35857 1427</gx:coord>
+				<gx:coord>6.007199999999999 46.35878 1426</gx:coord>
+				<gx:coord>6.007370000000001 46.359169 1423</gx:coord>
+				<gx:coord>6.00756 46.359241 1422</gx:coord>
+				<gx:coord>6.00759 46.35932199999999 1422</gx:coord>
+				<gx:coord>6.00734 46.359661 1418</gx:coord>
+				<gx:coord>6.007439999999999 46.359791 1416</gx:coord>
+				<gx:coord>6.00738 46.359879 1415</gx:coord>
+				<gx:coord>6.00748 46.359989 1414</gx:coord>
+				<gx:coord>6.00751 46.36021000000001 1412</gx:coord>
+				<gx:coord>6.007619999999999 46.360279 1411</gx:coord>
+				<gx:coord>6.0076 46.360371 1409</gx:coord>
+				<gx:coord>6.007769999999999 46.360649 1405</gx:coord>
+				<gx:coord>6.00758 46.360771 1402</gx:coord>
+				<gx:coord>6.0073 46.360722 1399</gx:coord>
+				<gx:coord>6.00692 46.360561 1395</gx:coord>
+				<gx:coord>6.00669 46.360611 1393</gx:coord>
+				<gx:coord>6.00666 46.360901 1389</gx:coord>
+				<gx:coord>6.00705 46.361309 1380</gx:coord>
+				<gx:coord>6.0071 46.361549 1376</gx:coord>
+				<gx:coord>6.00734 46.36179 1371</gx:coord>
+				<gx:coord>6.00806 46.36219000000001 1362</gx:coord>
+				<gx:coord>6.00839 46.362282 1358</gx:coord>
+				<gx:coord>6.00889 46.362801 1350</gx:coord>
+				<gx:coord>6.00926 46.3629 1346</gx:coord>
+				<gx:coord>6.00956 46.36310999999999 1343</gx:coord>
+				<gx:coord>6.009669999999999 46.363331 1341</gx:coord>
+				<gx:coord>6.00988 46.36344900000001 1339</gx:coord>
+				<gx:coord>6.010260000000001 46.36351 1340</gx:coord>
+				<gx:coord>6.010669999999999 46.363659 1342</gx:coord>
+				<gx:coord>6.010840000000001 46.363628 1342</gx:coord>
+				<gx:coord>6.01103 46.36377 1344</gx:coord>
+				<gx:coord>6.01103 46.36377 1344</gx:coord>
+				<gx:coord>6.011840000000001 46.36438 1337</gx:coord>
+				<gx:coord>6.01179 46.36451 1337</gx:coord>
+				<gx:coord>6.01153 46.364719 1334</gx:coord>
+				<gx:coord>6.01153 46.36483000000001 1333</gx:coord>
+				<gx:coord>6.01171 46.364979 1331</gx:coord>
+				<gx:coord>6.011990000000001 46.365059 1329</gx:coord>
+				<gx:coord>6.01212 46.365372 1326</gx:coord>
+				<gx:coord>6.0124 46.365471 1324</gx:coord>
+				<gx:coord>6.012969999999999 46.366829 1291</gx:coord>
+				<gx:coord>6.0132 46.36698899999999 1292</gx:coord>
+				<gx:coord>6.013410000000001 46.36695100000001 1293</gx:coord>
+				<gx:coord>6.013719999999999 46.367088 1294</gx:coord>
+				<gx:coord>6.01407 46.3671 1295</gx:coord>
+				<gx:coord>6.01421 46.367081 1296</gx:coord>
+				<gx:coord>6.01434 46.367142 1297</gx:coord>
+				<gx:coord>6.0146 46.36718 1295</gx:coord>
+				<gx:coord>6.01485 46.367271 1293</gx:coord>
+				<gx:coord>6.015 46.36742 1291</gx:coord>
+				<gx:coord>6.01545 46.36759899999999 1288</gx:coord>
+				<gx:coord>6.01572 46.367908 1285</gx:coord>
+				<gx:coord>6.01624 46.368279 1285</gx:coord>
+				<gx:coord>6.01715 46.368721 1287</gx:coord>
+				<gx:coord>6.01735 46.36887 1285</gx:coord>
+				<gx:coord>6.01748 46.368999 1285</gx:coord>
+				<gx:coord>6.0177 46.369282 1283</gx:coord>
+				<gx:coord>6.017840000000001 46.369389 1282</gx:coord>
+				<gx:coord>6.01856 46.36975900000001 1279</gx:coord>
+				<gx:coord>6.01869 46.369678 1283</gx:coord>
+				<gx:coord>6.01923 46.369362 1302</gx:coord>
+				<gx:coord>6.01994 46.368938 1327</gx:coord>
+				<gx:coord>6.020140000000001 46.36899200000001 1328</gx:coord>
+				<gx:coord>6.02055 46.368919 1331</gx:coord>
+				<gx:coord>6.02117 46.368752 1335</gx:coord>
+				<gx:coord>6.02135 46.36869000000001 1337</gx:coord>
+				<gx:coord>6.0215 46.36867900000001 1338</gx:coord>
+				<gx:coord>6.021710000000001 46.36879 1341</gx:coord>
+				<gx:coord>6.02199 46.368889 1345</gx:coord>
+				<gx:coord>6.022140000000001 46.368938 1347</gx:coord>
+				<gx:coord>6.02224 46.36899200000001 1348</gx:coord>
+				<gx:coord>6.022289999999999 46.36909899999999 1350</gx:coord>
+				<gx:coord>6.02237 46.36917100000001 1352</gx:coord>
+				<gx:coord>6.022529999999999 46.369499 1358</gx:coord>
+				<gx:coord>6.02258 46.36959100000001 1356</gx:coord>
+				<gx:coord>6.02257 46.369732 1354</gx:coord>
+				<gx:coord>6.02273 46.370071 1350</gx:coord>
+				<gx:coord>6.02314 46.370361 1345</gx:coord>
+				<gx:coord>6.0234 46.370541 1345</gx:coord>
+				<gx:coord>6.02375 46.370541 1345</gx:coord>
+				<gx:coord>6.02393 46.37062099999999 1345</gx:coord>
+				<gx:coord>6.024130000000001 46.370579 1345</gx:coord>
+				<gx:coord>6.0243 46.37062099999999 1345</gx:coord>
+				<gx:coord>6.02487 46.37085 1345</gx:coord>
+				<gx:coord>6.025090000000001 46.370861 1345</gx:coord>
+				<gx:coord>6.02533 46.37080000000001 1346</gx:coord>
+				<gx:coord>6.02554 46.370819 1347</gx:coord>
+				<gx:coord>6.02575 46.371029 1349</gx:coord>
+				<gx:coord>6.02595 46.371071 1350</gx:coord>
+				<gx:coord>6.0261 46.37105199999999 1350</gx:coord>
+				<gx:coord>6.02644 46.37109 1352</gx:coord>
+				<gx:coord>6.026729999999999 46.371262 1349</gx:coord>
+				<gx:coord>6.02686 46.37138 1347</gx:coord>
+				<gx:coord>6.0269 46.37154 1345</gx:coord>
+				<gx:coord>6.02714 46.37165099999999 1343</gx:coord>
+				<gx:coord>6.027480000000001 46.371689 1341</gx:coord>
+				<gx:coord>6.02762 46.371639 1342</gx:coord>
+				<gx:coord>6.027900000000001 46.37146 1346</gx:coord>
+				<gx:coord>6.036901000000001 46.37441199999999 1395</gx:coord>
+				<gx:coord>6.045312999999999 46.378202 1398</gx:coord>
+				<gx:coord>6.054153000000001 46.381162 1459</gx:coord>
+				<gx:coord>6.062994 46.385484 1468</gx:coord>
+				<gx:coord>6.070461 46.386965 1412</gx:coord>
+				<gx:coord>6.073035999999999 46.388859 1359</gx:coord>
+				<gx:coord>6.073637 46.391168 1360</gx:coord>
+				<gx:coord>6.073629999999999 46.39115900000001 1359</gx:coord>
+				<gx:coord>6.07279 46.391609 1359</gx:coord>
+				<gx:coord>6.072479999999999 46.39196 1359</gx:coord>
+				<gx:coord>6.07195 46.392029 1358</gx:coord>
+				<gx:coord>6.0711 46.392159 1358</gx:coord>
+				<gx:coord>6.070030000000001 46.392269 1357</gx:coord>
+				<gx:coord>6.069790000000001 46.39238 1357</gx:coord>
+				<gx:coord>6.069529999999999 46.39265799999999 1353</gx:coord>
+				<gx:coord>6.06929 46.393051 1349</gx:coord>
+				<gx:coord>6.06893 46.39349 1345</gx:coord>
+				<gx:coord>6.068540000000001 46.393719 1340</gx:coord>
+				<gx:coord>6.06816 46.39384800000001 1335</gx:coord>
+				<gx:coord>6.068039999999999 46.39386 1334</gx:coord>
+				<gx:coord>6.06776 46.393822 1332</gx:coord>
+				<gx:coord>6.06726 46.393711 1327</gx:coord>
+				<gx:coord>6.06691 46.393742 1325</gx:coord>
+				<gx:coord>6.06717 46.39405099999999 1323</gx:coord>
+				<gx:coord>6.06724 46.394379 1321</gx:coord>
+				<gx:coord>6.06735 46.394619 1320</gx:coord>
+				<gx:coord>6.06768 46.394859 1323</gx:coord>
+				<gx:coord>6.067949999999999 46.3951 1326</gx:coord>
+				<gx:coord>6.06806 46.39532100000001 1329</gx:coord>
+				<gx:coord>6.067970000000001 46.395592 1332</gx:coord>
+				<gx:coord>6.06749 46.39632 1330</gx:coord>
+				<gx:coord>6.06744 46.396778 1329</gx:coord>
+				<gx:coord>6.067529999999999 46.39727 1331</gx:coord>
+				<gx:coord>6.06777 46.39794899999999 1334</gx:coord>
+				<gx:coord>6.06794 46.39827 1336</gx:coord>
+				<gx:coord>6.068709999999999 46.398972 1344</gx:coord>
+				<gx:coord>6.06965 46.399849 1354</gx:coord>
+				<gx:coord>6.07117 46.40108099999999 1359</gx:coord>
+				<gx:coord>6.07198 46.401649 1360</gx:coord>
+				<gx:coord>6.07492 46.40293900000001 1367</gx:coord>
+				<gx:coord>6.07561 46.40321 1368</gx:coord>
+				<gx:coord>6.076040000000001 46.40325200000001 1370</gx:coord>
+				<gx:coord>6.074967 46.406469 1316</gx:coord>
+				<gx:coord>6.080825 46.424842 1415</gx:coord>
+				<gx:coord>6.082413000000001 46.427741 1464</gx:coord>
+				<gx:coord>6.084087 46.428629 1472</gx:coord>
+				<gx:coord>6.086855 46.430226 1448</gx:coord>
+				<gx:coord>6.086898000000001 46.431557 1428</gx:coord>
+				<gx:coord>6.090674 46.433184 1427</gx:coord>
+				<gx:coord>6.090266999999999 46.43438200000001 1406</gx:coord>
+				<gx:coord>6.089795 46.435535 1372</gx:coord>
+				<gx:coord>6.090437999999999 46.437339 1341</gx:coord>
+				<gx:coord>6.091146 46.438153 1334</gx:coord>
+				<gx:coord>6.091661 46.43855199999999 1324</gx:coord>
+				<gx:coord>6.09252 46.440829 1285</gx:coord>
+				<gx:coord>6.098141999999999 46.445221 1265</gx:coord>
+				<gx:coord>6.099558 46.446551 1258</gx:coord>
+				<gx:coord>6.100931 46.448059 1217</gx:coord>
+				<gx:coord>6.104665 46.45072 1205</gx:coord>
+				<gx:coord>6.110500999999999 46.45447500000001 1208</gx:coord>
+			</gx:Track>
+		</Placemark>
+</Document>
+</kml>
